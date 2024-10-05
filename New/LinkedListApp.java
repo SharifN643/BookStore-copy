@@ -9,6 +9,9 @@ class LinkedListApp {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+        // Read existing books from the file at the start
+        readBooksFromFile();
+
         boolean running = true;
         while (running) {
             System.out.println("Choose an option:");
