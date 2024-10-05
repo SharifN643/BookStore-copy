@@ -1,0 +1,10 @@
+1, To Kill a Mockingbird, Harper Lee, 35.0, classic
+2, 1984, George Orwell, 40.0, dystopian
+3, The Great Gatsby, F. Scott Fitzgerald, 30.0, classic
+4, Moby Dick, Herman Melville, 25.0, adventure
+5, The Catcher in the Rye, J.D. Salinger, 28.0, classic
+6, The Hobbit, J.R.R. Tolkien, 45.0, fantasy
+7, Pride and Prejudice, Jane Austen, 50.0, romance
+8, The Da Vinci Code, Dan Brown, 60.0, thriller
+9, The Shining, Stephen King, 55.0, horror
+10, Hamlet, William Shakespeare, 20.0, drama

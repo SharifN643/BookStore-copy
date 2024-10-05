@@ -1,8 +1,10 @@
-public class Node {
+package New;
+
+class Node {
     Book data;
     Node next;
 
-    public Node(Book data) {
+    Node(Book data) {
         this.data = data;
         this.next = null;
     }
